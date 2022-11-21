@@ -1,4 +1,5 @@
 // define function calculateWeightedAverage here to calcuate weighted average
+function calculateWeightedAverage()
 
 
 //calling functions
